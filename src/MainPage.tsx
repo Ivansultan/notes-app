@@ -1,5 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
+// import { AppState } from "./reducer";
+// import store from "./store";
 
 function MainPage() {
   return (
